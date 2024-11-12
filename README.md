@@ -14,7 +14,7 @@
 -   **Status Code**: 200 OK
 -   **Body**: Returns an array of product objects.
 
-![][image2]
+![GET all products](/images/get/get_all.png)
 
 ### **2\. GET /products/ \- Fetch a specific product by ID**
 
@@ -28,14 +28,14 @@
 -   **Status Code**: 200 OK (if product found)
 -   **Body**: Returns a single product object if found.
 
-![][image3]
+![GET one product](/images/get/get_one.png)
 
 #### **Response if Product Not Found:**
 
 -   **Status Code**: 404 Not Found
 -   **Body**: Returns an error message.
 
-![][image4]
+![GET Invalid ID](/images/get/get_invalid_id.png)
 
 ### **3\. POST /products \- Add a new product**
 
