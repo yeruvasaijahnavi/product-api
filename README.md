@@ -76,7 +76,7 @@ Request:
 
 -   **Status Code**: 400 Bad Request
 -   **Body**: Returns an error message indicating the missing `name` field.
-    ![Name Missing](images/post/name_missing.png)
+    ![Name Missing](/images/post/name_missing.png)
 
 ### **Test Case 2: Missing Price**
 
@@ -94,7 +94,7 @@ Request:
 }
 ```
 
-![Price Missing](images/post/price_missing.png)
+![Price Missing](/images/post/price_missing.png)
 
 ### **Test Case 3: Missing Both Name and Price**
 
@@ -116,7 +116,7 @@ Request:
 -   **Status Code**: 400 Bad Request
 -   **Body**: Returns an error message indicating both `name` and `price` are missing
 
-![](images\post\name_price_missing.png)
+![](\images\post\name_price_missing.png)
 
 ### **4\. PUT /products/ \- Update an existing product**
 
