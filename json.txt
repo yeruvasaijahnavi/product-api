@@ -1,0 +1,19 @@
+{
+    "name": "Samsung galaxy S24",
+    "description": "Amazing phone with 128 GB storage",
+    "price": 99999,
+    "quantity": 500
+}
+{
+    "name": "OnePlus Open 2",
+    "description": "Amazing phone with 128 GB storage",
+    "price": 139999,
+    "quantity": 500
+}
+
+{
+    "name": "Redmi Note 10 Pro Max",
+    "description": "Amazing phone with 128 GB storage",
+    "price": 39999,
+    "quantity": 500
+}
