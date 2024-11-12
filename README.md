@@ -1,7 +1,5 @@
 # RESTful API with Node.js and Express
 
-![][image1]
-
 ### **1\. GET /products \- Fetch all products**
 
 #### **Request:**
