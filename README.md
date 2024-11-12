@@ -180,7 +180,7 @@ Assuming there are 4 items:
 
 **Sorted by Price Descending:**
 
-![Get products sort by price desc](/images/get/price_asc.png)
+![Get products sort by price desc](/images/get/price_desc.png)
 
 **Sort By Price in Ascending Order:**
 
